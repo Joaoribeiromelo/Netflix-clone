@@ -1,2 +1,2 @@
 # Netflix-clone
-https://github.com/Joaoribeiromelo/Netflix-clone.git
+https://joaoribeiromelo.github.io/Netflix-clone/
